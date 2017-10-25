@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 from numpy import loadtxt
 import numpy as np
-import numpy
 import matplotlib.pyplot as plt
 from astropy.io import fits
 #def plotbet_temp():
