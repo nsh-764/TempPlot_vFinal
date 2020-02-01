@@ -1,16 +1,16 @@
 # TempPlot_vFinal
 Temperature Plot and Optical depth map of Star forming molecular clouds using Planck Satellite Data
-
-# ****************************************************************************
-# Author: Nikhil S Hubballi <nikhil.hubballi@gmail.com>                      *
-# Date: July, 2016                                                           *
-# Purpose: to fit modified black body function to the observed data points   *
-# from Planck and 100 micron IRAS fluxes. Query and get temperature plot,    *
-# optical depth plot, spectral emissivity index plot and also the relation   *
-# between temperature and spectral emissivity index for the entire region    *
-# of molecular cloud under inspection                                        *
-# ****************************************************************************
-
+```
+*****************************************************************************
+* Author: Nikhil S Hubballi <nikhil.hubballi@gmail.com>                      *
+* Date: July, 2016                                                           *
+* Purpose: to fit modified black body function to the observed data points   *
+* from Planck and 100 micron IRAS fluxes. Query and get temperature plot,    *
+* optical depth plot, spectral emissivity index plot and also the relation   *
+* between temperature and spectral emissivity index for the entire region    *
+* of molecular cloud under inspection                                        *
+* ****************************************************************************
+```
 
 Packages required for the python program
 1. astropy.io
